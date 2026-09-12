@@ -6,7 +6,7 @@
 ### 📌 Descripción General
 Este laboratorio práctico recorre de forma rigurosa el ciclo completo de la ciencia de datos aplicada a la **Defensa, Inteligencia y Gobierno** (Ciberdefensa). Diseñado para guiar tanto a perfiles en formación como a profesionales avanzados, el recorrido abarca desde la captura de telemetría de red en tiempo real, pasando por el Análisis Exploratorio de Datos (EDA) y la Ingeniería de Características, hasta el entrenamiento y despliegue de modelos predictivos.
 
-A diferencia de un IDS genérico o centrado en el host, este sistema opera a nivel de red (**NIDS**). Analiza el tráfico bruto (*raw packets*) y los flujos de comunicación para detectar patrones anómalos e intentos de intrusión de manera automatizada mediante Inteligencia Artificial.
+A diferencia de un IDS genérico o centrado en el host, este sistema opera a nivel de red (**NIDS**). Analiza el tráfico bruto (*raw packets*) y los flujos de comunicación para detectar patrones anómalos e intentos de intrusión de manera automatizada mediante inteligencia artificial.
 
 ### 🎯 Objetivos del Proyecto
 *   **Captura de Telemetría:** Interceptar tráfico de red (*sniffing*) en tiempo real extrayendo características fundamentales como IPs, puertos y protocolos.
@@ -14,7 +14,7 @@ A diferencia de un IDS genérico o centrado en el host, este sistema opera a niv
 *   **Clasificación Predictiva:** Entrenar un algoritmo de aprendizaje supervisado para detectar secuencias maliciosas (como escaneos de red), evaluando su rendimiento mediante métricas especializadas.
 
 ### 📊 Nivel de Dificultad
-Este laboratorio está diseñado para que puedas ejecutarlo y comprenderlo de punta a punta. Aunque no requiere experiencia previa avanzada, se recomienda tener nociones básicas de informática y redes para instalar los entornos y comprender la lógica de cada proceso.
+Este laboratorio está diseñado para que puedas ejecutarlo y comprenderlo de punta a punta. Aunque no requiere experiencia previa avanzada, se recomienda tener nociones básicas de informática y redes para instalar los entornos y comprender la lógica de cada proceso. Además, se recomienda explorar la bibliografía y los recursos sugeridos para profundizar y enriquecer el conocimiento general de lógica detrás de cada proceso.
 *   Ciberseguridad | Redes: **Básico**
 *   Ciencia de Datos: **Básico / Medio**
 
